@@ -1,0 +1,5 @@
+El proyecto de la Document Foundation Libre Office apoyado por multiples empresas
+fundaciones y agrupaciones de usuarios de todo el mundo
+acaba de publicar su primera version estable Libre Office tres tres
+Como todos sabreis es un fork de OpenOffice 
+creado a partir de las malas practicas y actitudes de Oracle con respecto OpenOffice
